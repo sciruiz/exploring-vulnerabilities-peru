@@ -1,3 +1,7 @@
+# Framing Vulnerabilities: Dengue and Diarrhea in Peru’s Borderlands
+
+This section outlines the data sources, extraction protocols, processing steps, and analytical scripts utilized in the development of this publication. The objective is to ensure full transparency and reproducibility of our findings, in accordance with best practices in open and replicable research.
+
 # Data Description
 
 This study utilized open-access data on:
@@ -25,4 +29,9 @@ Direct access to the raw data used in the study (where publicly available):
 - [Precipitation and Temperature Data (SENAMHI)](https://www.senamhi.gob.pe/mapas/)
 - [Census 2017 - Water and Sanitation Indicators](https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1534/index.html)
 
-> NOTE: All data were accessed between January and April 2025.
+> NOTE: All data were accessed between January and June 2021.
+
+## Citation
+
+Please cite the article as:
+> Mezza et al. (On Revision). *Framing Vulnerabilities: A Transdisciplinary Study of Dengue and Diarrhea in Peru’s Borderlands*. _The Journal of Climate Change and Health_.

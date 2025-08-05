@@ -2,8 +2,16 @@
 
 *Content*
 1. Diarrheal Disease Literature Review on Environmental Determinants and Vulnerability Indicators
+   Overview and Scope
+   Methodology
+   Summary of Main Findings
+   Conclusion
 2. Dengue Disease Literature Review on Environmental Determinants and Vulnerability Indicators
-
+   Overview and Scope
+   Methodology
+   Summary of Main Findings
+   Conclusion
+   
 ## Diarrheal Disease Literature Review on Environmental Determinants and Vulnerability Indicators
 
 **Overview and Scope**
@@ -51,13 +59,10 @@ Differences in vulnerability by sex and maternal education level were also obser
 **Conclusion**
 This review underscores the urgent need for climate-resilient public health systems, particularly in low-resource settings where environmental shocks are increasingly frequent. The most vulnerable populations—young children in water-insecure households—face compounded risks from both environmental exposure and systemic gaps in adaptive capacity.
 
+## Dengue Disease Literature Review on Environmental Determinants and Vulnerability Indicators
 
 ## Citation
 
 Please cite the article as:
 > Mezza et al. (On Revision). *Framing Vulnerabilities: A Transdisciplinary Study of Dengue and Diarrhea in Peru’s Borderlands*. _The Journal of Climate Change and Health_.
-
-## Dengue Disease Literature Review on Environmental Determinants and Vulnerability Indicators
-
-
 Future work should prioritize integration of environmental surveillance with public health datasets, and investment in both infrastructural and educational adaptive strategies. Moreover, standardizing methodologies across studies will improve comparability and meta-analytic potential.

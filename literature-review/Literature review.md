@@ -1,5 +1,7 @@
 # Framing Vulnerabilities: Dengue and Diarrhea in Peru’s Borderlands
 
+In this section, we provide an overview of the literature review conducted on the environmental determinants of diarrheal and dengue diseases, as well as the indicators used to assess vulnerability. The complete literature review can be found in (`Diarrhea Review.xlsx`)[] and (`Dengue Review.xlsx`)[].
+
 *Content*
 1. Diarrheal Disease Literature Review on Environmental Determinants and Vulnerability Indicators
    Overview and Scope

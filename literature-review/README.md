@@ -17,9 +17,11 @@ In this section, we provide an overview of the literature review conducted on th
 ## Diarrheal Disease Literature Review on Environmental Determinants and Vulnerability Indicators
 
 **Overview and Scope**
+
 This literature review investigates the relationship between environmental stressors—particularly drought, rainfall, and temperature fluctuations—and the incidence of diarrheal diseases. It also identifies key sociodemographic and adaptive capacity indicators that exacerbate or mitigate vulnerability to such diseases. The reviewed studies range from 2014 to 2021 and span multiple geographies including the Pacific Islands, the United States, Peru, and Korea.
 
 **Methodology**
+
 The review applied a structured search using terms such as “droughts diarrhea”, “diarrhea vulnerability index”, and related variants through Google Scholar. Selection of studies was guided by inclusion criteria emphasizing relevance to climate-linked diarrheal outcomes, measurable associations, and methodological rigor.
 
 To ensure quality and consistency in analysis, three critical appraisal tools were employed:
@@ -29,21 +31,18 @@ To ensure quality and consistency in analysis, three critical appraisal tools we
 - Newcastle-Ottawa Scale (NOS) for cohort and cross-sectional studies (maximum score: 9).
 
 **Summary of Main Findings**
+
 *Environmental Stressors and Diarrhea Incidence:*
 
 - Temperature increases were positively associated with national-level diarrheal trends in Peru, with stronger associations during El Niño events.
-
 - Heavy rainfall following dry periods significantly increased diarrheal risk, particularly in regions with inadequate water treatment infrastructure.
-
 - Drought conditions were linked to compromised hygiene behaviors and increased household water insecurity, especially among children under five.
 
 *Sociodemographic and Susceptibility Indicators:*
 
-Age emerged consistently as a vulnerability indicator—especially in children under two and between 12–34 months.
-
-Other identified factors included food insecurity, limited hygiene practices, and restricted access to safe water.
-
-Differences in vulnerability by sex and maternal education level were also observed in some datasets.
+- Age emerged consistently as a vulnerability indicator—especially in children under two and between 12–34 months.
+- Other identified factors included food insecurity, limited hygiene practices, and restricted access to safe water.
+- Differences in vulnerability by sex and maternal education level were also observed in some datasets.
 
 *Coping and Adaptive Capacity:*
 
@@ -59,11 +58,12 @@ Differences in vulnerability by sex and maternal education level were also obser
 - The sole systematic review achieved a PRISMA score of 24/27, reflecting good methodological rigor though it lacked practical implementation discussion.
 
 **Conclusion**
+
 This review underscores the urgent need for climate-resilient public health systems, particularly in low-resource settings where environmental shocks are increasingly frequent. The most vulnerable populations—young children in water-insecure households—face compounded risks from both environmental exposure and systemic gaps in adaptive capacity.
 
 ## Dengue Disease Literature Review on Environmental Determinants and Vulnerability Indicators
 
-## 1. What You Will Find in This Review
+**Overview**
 
 This literature review compiles and analyses diverse scientific efforts that aim to model or assess **vulnerability to dengue** through socio-environmental, epidemiological, and structural indicators. You will find:
 
@@ -74,18 +74,18 @@ This literature review compiles and analyses diverse scientific efforts that aim
 
 This synthesis includes 30+ studies conducted across the globe, with particular attention to **systematic reviews**, **spatial modeling**, and **validation efforts** relevant to Latin America and Southeast Asia.
 
-## 2. Methodologies Used
+**Methodology**
 
 The review encompasses a wide range of methods, which are distributed as follows:
 
-### Most Common Approaches:
+Most Common Approaches:
 - **Systematic Reviews** (6+ studies)
 - **Spatial/Statistical Modeling** (3 studies)
 - **Meta-Analyses and Expert-Based Models**
 - **Regression, Correlation, and Time-Series Analyses**
 - **Entomological and Cohort Studies** (including longitudinal and retrospective designs)
 
-### Example Modeling Techniques:
+Example Modeling Techniques:
 - **Weighted indicators** using expert elicitation or data-driven methods
 - **Pearson correlation matrices** to reduce redundancy among indicators
 - **GIS-based spatial modeling** to map risk areas
@@ -94,9 +94,9 @@ The review encompasses a wide range of methods, which are distributed as follows
 
 Most methodologies triangulate **environmental**, **demographic**, and **infrastructural data** to produce indices reflecting risk exposure and community vulnerability.
 
-## 3. Main Findings
+**Summary of Main Findings**
 
-### Susceptibility Indicators
+*Susceptibility Indicators*
 
 The most common indicators related to **exposure and sensitivity to dengue** include:
 
@@ -110,7 +110,7 @@ The most common indicators related to **exposure and sensitivity to dengue** inc
 | % of population under 15         | 2      |
 | Low socioeconomic status         | 2      |
 
-### Coping Capacity Indicators
+*Coping Capacity*
 
 These relate to **infrastructure and public health response**:
 
@@ -121,7 +121,7 @@ These relate to **infrastructure and public health response**:
 | # of doctors or public health officers                           | 2      |
 | Vector control and preventative interventions                    | 2      |
 
-### Adaptive Capacity Indicators
+*Adaptive Capacity*
 
 These reflect **education and awareness**, enabling long-term adaptation:
 
@@ -132,7 +132,7 @@ These reflect **education and awareness**, enabling long-term adaptation:
 | % population with any education    | 1      |
 | % houses with TVs or radios        | 1 each |
 
-## Conclusion
+**Conclusion**
 
 This literature review offers a robust synthesis of how vulnerability to dengue is conceptualized and measured across disciplines. Most studies align around three pillars—**susceptibility, coping, and adaptation**—but differ in how they operationalize these. The growing trend toward **spatial modeling and composite indices**, often incorporating real-time or high-resolution data, marks a significant shift in how we understand disease risk.
 

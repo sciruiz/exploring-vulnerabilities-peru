@@ -3,12 +3,12 @@
 In this section, we provide an overview of the literature review conducted on the environmental determinants of diarrheal and dengue diseases, as well as the indicators used to assess vulnerability. The complete literature review can be found in [`Diarrhea Review.xlsx`](https://github.com/sciruiz/framing-vulnerabilities-peru/blob/main/literature-review/Diarrhea%20Review.xlsx) and [`Dengue Review.xlsx`](https://github.com/sciruiz/framing-vulnerabilities-peru/blob/main/literature-review/Dengue%20Review.xlsx).
 
 *Content*
-1. Diarrheal Disease Literature Review on Environmental Determinants and Vulnerability Indicators
+1. [Diarrheal Disease Literature Review on Environmental Determinants and Vulnerability Indicators](#Diarrheal-Disease-Literature-Review-on-Environmental-Determinants-and-Vulnerability-Indicators)
    Overview and Scope
    Methodology
    Summary of Main Findings
    Conclusion
-2. Dengue Disease Literature Review on Environmental Determinants and Vulnerability Indicators
+2. [Dengue Disease Literature Review on Environmental Determinants and Vulnerability Indicators](#Dengue-Disease-Literature-Review-on-Environmental-Determinants-and-Vulnerability-Indicators)
    Overview and Scope
    Methodology
    Summary of Main Findings
@@ -62,6 +62,81 @@ Differences in vulnerability by sex and maternal education level were also obser
 This review underscores the urgent need for climate-resilient public health systems, particularly in low-resource settings where environmental shocks are increasingly frequent. The most vulnerable populations—young children in water-insecure households—face compounded risks from both environmental exposure and systemic gaps in adaptive capacity.
 
 ## Dengue Disease Literature Review on Environmental Determinants and Vulnerability Indicators
+
+## 1. What You Will Find in This Review
+
+This literature review compiles and analyses diverse scientific efforts that aim to model or assess **vulnerability to dengue** through socio-environmental, epidemiological, and structural indicators. You will find:
+
+- A variety of **methodologies** used to quantify or model dengue vulnerability, including both **statistical and expert-based approaches**.
+- A consistent focus on **susceptibility, coping capacity, and adaptive capacity**, as core dimensions of vulnerability.
+- A detailed breakdown of **indicators most frequently used** across studies: climatic (e.g., temperature, rainfall), demographic (e.g., population density, age structure), and socioeconomic (e.g., education, healthcare access).
+- Insight into how these indicators are operationalized into indices or models, many influenced by **WADI (World Risk Index)** frameworks.
+
+This synthesis includes 30+ studies conducted across the globe, with particular attention to **systematic reviews**, **spatial modeling**, and **validation efforts** relevant to Latin America and Southeast Asia.
+
+## 2. Methodologies Used
+
+The review encompasses a wide range of methods, which are distributed as follows:
+
+### Most Common Approaches:
+- **Systematic Reviews** (6+ studies)
+- **Spatial/Statistical Modeling** (3 studies)
+- **Meta-Analyses and Expert-Based Models**
+- **Regression, Correlation, and Time-Series Analyses**
+- **Entomological and Cohort Studies** (including longitudinal and retrospective designs)
+
+### Example Modeling Techniques:
+- **Weighted indicators** using expert elicitation or data-driven methods
+- **Pearson correlation matrices** to reduce redundancy among indicators
+- **GIS-based spatial modeling** to map risk areas
+- **Socio-ecological autopsy** approaches for comprehensive assessment
+- Integration of **survey data, remote sensing, and entomological datasets**
+
+Most methodologies triangulate **environmental**, **demographic**, and **infrastructural data** to produce indices reflecting risk exposure and community vulnerability.
+
+## 3. Main Findings
+
+### Susceptibility Indicators
+
+The most common indicators related to **exposure and sensitivity to dengue** include:
+
+| Indicator                        | Count |
+|----------------------------------|--------|
+| Precipitation / Rainfall         | 8      |
+| Temperature                      | 8      |
+| Population density               | 2      |
+| Land cover components            | 2      |
+| Housing quality                  | 2      |
+| % of population under 15         | 2      |
+| Low socioeconomic status         | 2      |
+
+### Coping Capacity Indicators
+
+These relate to **infrastructure and public health response**:
+
+| Indicator                                                        | Count |
+|------------------------------------------------------------------|--------|
+| Health care access                                               | 2      |
+| Integrated vector control (environmental, biological & chemical) | 2      |
+| # of doctors or public health officers                           | 2      |
+| Vector control and preventative interventions                    | 2      |
+
+### Adaptive Capacity Indicators
+
+These reflect **education and awareness**, enabling long-term adaptation:
+
+| Indicator                          | Count |
+|------------------------------------|--------|
+| Female education level             | 2      |
+| General education level            | 2      |
+| % population with any education    | 1      |
+| % houses with TVs or radios        | 1 each |
+
+## Conclusion
+
+This literature review offers a robust synthesis of how vulnerability to dengue is conceptualized and measured across disciplines. Most studies align around three pillars—**susceptibility, coping, and adaptation**—but differ in how they operationalize these. The growing trend toward **spatial modeling and composite indices**, often incorporating real-time or high-resolution data, marks a significant shift in how we understand disease risk.
+
+For future applications, especially in **Latin America**, this body of work provides essential methodological and conceptual guidance for the development of **locally adapted vulnerability indices**. These indices not only improve **targeting of public health interventions**, but also enable **predictive modeling** under changing climatic and urbanization conditions.
 
 ## Citation
 

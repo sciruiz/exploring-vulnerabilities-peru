@@ -8,7 +8,7 @@ In this section, we provide an overview of the literature review conducted on th
    - Methodology
    - Summary of Main Findings
    - Conclusion
-2. [Diarrheal Disease Literature Review on Environmental Determinants and Vulnerability Indicators](#Diarrheal-Disease-Literature-Review-on-Environmental-Determinants-and-Vulnerability-Indicators)
+2. [Diarrhea Disease Literature Review on Environmental Determinants and Vulnerability Indicators](#Diarrhea-Disease-Literature-Review-on-Environmental-Determinants-and-Vulnerability-Indicators)
    - Overview and Scope
    - Methodology
    - Summary of Main Findings

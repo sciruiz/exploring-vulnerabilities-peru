@@ -16,7 +16,7 @@ In this section, we provide an overview of the literature review conducted on th
 
 ## Dengue Disease Literature Review on Environmental Determinants and Vulnerability Indicators
 
-[Peru Dengue Framework](https://github.com/sciruiz/framing-vulnerabilities-peru/blob/main/literature-review/Peru%20Dengue%20Framework.png)
+![Peru Dengue Framework](https://github.com/sciruiz/framing-vulnerabilities-peru/blob/main/literature-review/Peru%20Dengue%20Framework.png)
 Figure 1. Vulnerability factors identified for dengue-related disease through the non-systematic literature review. Italicized indicators do not have supporting Peru-specific literature. Reference list and quality score’s summary are available in this repository https://github.com/sciruiz/framing-vulnerabilities-peru/tree/main/literature-review.
 
 **Overview**

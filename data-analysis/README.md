@@ -1,12 +1,24 @@
 # Framing Vulnerabilities: Dengue and Diarrhea in Peru’s Borderlands
 
-This section details the data sources, processing steps, cleaning procedures, and statistical analyses performed in this study, along with the scripts used for these tasks. The aim is to provide full transparency and enable complete reproducibility of our results, in line with best practices for open and replicable research.
+This section outlines the complete workflow used in this study, including data collection, processing, cleaning, and statistical analyses, along with the scripts used to perform each step. Our goal is to ensure full transparency and enable complete reproducibility of the results, following best practices in open and replicable research.
 
 ## Content
 
-1. Data Collection
-2. Data Cleaning and Preprocessing
-3. Exploratory and Statistical Analysis
+* Step 1: Data Collection (more here)
+
+  Retrieving relevant datasets from official and open-access sources.
+* Step 2: Data Cleaning and Exploration (more here)
+
+  Removing inconsistencies, handling missing values, and conducting initial descriptive analyses to evaluate the structure and quality of the data.
+* Step 3: Data Preprocessing (more here)
+
+  Transforming and standardizing variables, aligning temporal and spatial resolutions, and preparing datasets for modeling.
+* Step 4: Further Refinement of the Data and Data Compilation (more here)
+
+  Integrating processed datasets into a unified structure, ensuring consistency across all sources.
+* Step 5: Statistical Analysis (more here)
+
+  Applying analytical and inferential methods to address the study objectives.
 
 ## Citation
 >Please cite the article as: Mezza et al. (On Revision). Framing Vulnerabilities: A Transdisciplinary Study of Dengue and Diarrhea in Peru’s Borderlands. The Journal of Climate Change and Health.

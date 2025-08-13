@@ -1,27 +1,23 @@
 # Framing Vulnerabilities: Dengue and Diarrhea in Peru’s Borderlands
 
-This section outlines the data sources, extraction protocols, processing steps, and analytical scripts utilized in the development of this publication. The objective is to ensure full transparency and reproducibility of our findings, in accordance with best practices in open and replicable research.
+This section outlines the source of the data used in this study. 
 
-# Data Description
+# Data description 
 
-This study utilized open-access data on:
+| Dataset | Type of Data | Granurality | Timespam | Source |  
+|--------|---|-----|--|-|
+| Demographic and Family Health Survey (ENDES) | Sociodemographic data | Regional | Annual | National Institute of Statistics and Informatics (INEI) |
+| National Household Survey (ENAHO)|  Sociodemographic data | District | Annual | National Institute of Statistics and Informatics (INEI) |
+| Dengue and diarrhea prevalence | Epidemiological data | District | Weekly | CDC Peru (Centro Nacional de Epidemiología) |
+| PISCO dataset | Climate data| District| Annnual |SENAMHI | https://www.senamhi.gob.pe |
 
-- **Disease incidence**: Dengue and diarrheal diseases (2005–2022)
-- **Climatic variables**: Temperature, precipitation, humidity
-- **Socioeconomic indicators**: Water access, sanitation, and poverty indices
+Note: Peru’s political and administrative organization is structured in a hierarchical manner, with four main levels: region, departments, provinces, and districts. The first division consists of departments (departamentos), also referred to as regions (regiones). Peru has 25 of these: 24 departments plus the Constitutional Province of Callao, which holds the same status as a department. Each department has a regional government responsible for planning and executing policies in areas such as education, health, transport, and economic development within its boundaries. Examples of departments include Cusco, Piura, Loreto, Arequipa, and Lima.
 
-All data pertain to **Loreto, Ucayali, and Madre de Dios** departments in Peru.
+Departments are further divided into provinces (provincias). There are 196 provinces across the country, each governed by a provincial municipality. Provincial governments oversee urban development plans, inter-district transport systems, and certain public works. For instance, the Department of Cusco contains provinces such as Cusco, Urubamba, La Convención, and Canchis.
 
-# List of Data Sources
+Provinces are subdivided into districts (distritos), which form the most localized level of government. Peru has 1,874 districts, each managed by a district municipality responsible for community-level services, such as waste management, maintenance of local infrastructure, and regulation of neighborhood commerce. For instance, in the case of Cusco Province, its districts include Cusco, San Sebastián, San Jerónimo, Santiago, and Wanchaq.
 
-| Dataset | Source | Link |
-|--------|--------|------|
-| Epidemiological data | CDC Peru (Centro Nacional de Epidemiología) | https://www.dge.gob.pe |
-| Climate data | SENAMHI | https://www.senamhi.gob.pe |
-| Census & Water Access | INEI | https://www.inei.gob.pe |
-| Diarrhea Surveillance | MINSA – SINADEF | https://www.minsa.gob.pe |
-
-# Sample Datasets
+# Data Retrieval
 
 Direct access to the raw data used in the study (where publicly available):
 

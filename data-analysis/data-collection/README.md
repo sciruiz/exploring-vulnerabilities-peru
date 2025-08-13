@@ -1,8 +1,8 @@
 # Framing Vulnerabilities: Dengue and Diarrhea in Peru’s Borderlands
 
-This section outlines the source, processing steps, and scripts utilized for this purpose in this publication. The objective is to ensure full transparency and reproducibility of our findings, in accordance with best practices in open and replicable research.of the data used in this study. All datasets used in this study were accessed in 2021 from open-access repositories, unless otherwise specified. Sociodemographic data were obtained from the [INEI MicroDatos Repository](https://proyectos.inei.gob.pe/microdatos) via a custom Google Colab Notebook developed for this study, available [here](https://colab.research.google.com/drive/1X1AGu06S61092Y90uFJC4ArW3Mvn071i?usp=sharing). Climate data from the **PISCO** (*Peruvian Interpolation of the SENAMHI’s Climatological Observations*) dataset were retrieved from the SENAMHI open-data portal, which provides gridded temperature and precipitation records at daily and monthly resolutions, and accessed using institutional API endpoints and bulk download tools. Information on stunting and wasting in children under five years old was obtained from the Ministry of Health (**MINSA**) database, following a formal data request to the institution. 
+This section outlines the source, processing steps, and scripts utilized for this purpose in this publication. The objective is to ensure full transparency and reproducibility of our findings, in accordance with best practices in open and replicable research.of the data used in this study. 
 
-# Data description 
+## Data description 
 
 | Dataset                                                   | Type of Data          | Granularity | Timespan | Source                                                                 |
 |-----------------------------------------------------------|-----------------------|-------------|----------|------------------------------------------------------------------------|
@@ -16,6 +16,9 @@ Note: Peru’s political and administrative organization is structured in a hier
 Departments are further divided into provinces (provincias). There are 196 provinces across the country, each governed by a provincial municipality. Provincial governments oversee urban development plans, inter-district transport systems, and certain public works. For instance, the Department of Cusco contains provinces such as Cusco, Urubamba, La Convención, and Canchis.
 
 Provinces are subdivided into districts (distritos), which form the most localized level of government. Peru has 1,874 districts, each managed by a district municipality responsible for community-level services, such as waste management, maintenance of local infrastructure, and regulation of neighborhood commerce. For instance, in the case of Cusco Province, its districts include Cusco, San Sebastián, San Jerónimo, Santiago, and Wanchaq.
+
+## Data Collection
+All datasets used in this study were accessed in 2021 from open-access repositories, unless otherwise specified. Sociodemographic data were obtained from the [INEI MicroDatos Repository](https://proyectos.inei.gob.pe/microdatos) via a custom Google Colab Notebook developed for this study, available [here](https://colab.research.google.com/drive/1X1AGu06S61092Y90uFJC4ArW3Mvn071i?usp=sharing). Climate data from the **PISCO** (*Peruvian Interpolation of the SENAMHI’s Climatological Observations*) dataset were retrieved from the SENAMHI open-data portal, which provides gridded temperature and precipitation records at daily and monthly resolutions, and accessed using institutional API endpoints and bulk download tools. Information on stunting and wasting in children under five years old was obtained from the Ministry of Health (**MINSA**) database, following a formal data request to the institution. 
 
 ## Citation
 

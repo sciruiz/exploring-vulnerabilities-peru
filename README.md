@@ -10,7 +10,7 @@ This repository supports the article titled:
 ## Repository Contents
 
 - [`literature-review/`](https://github.com/sciruiz/framing-vulnerabilities-peru/tree/main/literature-review): Review of existing research and methodological framing. Includes a scoring rubric assessing literature quality.
-- [`data-source/`](https://github.com/sciruiz/framing-vulnerabilities-peru/tree/main/data-source): Descriptions and links to all publicly available datasets used in the study.
+
 - [`data-analysis/`](https://github.com/sciruiz/framing-vulnerabilities-peru/tree/main/data-analysis): Descriptions and worflow for the analysis of the data in this study.
 
 ## Citation

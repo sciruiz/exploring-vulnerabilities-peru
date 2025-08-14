@@ -1,6 +1,6 @@
 ## Dengue Literature Review 
 
-![Peru Vulnerability Dengue Framework](https://github.com/sciruiz/framing-vulnerabilities-peru/blob/main/literature-review/Peru%20Dengue%20Framework.png)
+![Peru Vulnerability Dengue Framework](https://github.com/sciruiz/framing-vulnerabilities-peru/blob/main/literature-review/references/Peru%20Dengue%20Framework.png)
 Figure 1. Vulnerability factors identified for dengue-related disease through the non-systematic literature review. Italicized indicators do not have supporting Peru-specific literature. Reference list and quality score’s summary are available in this repository https://github.com/sciruiz/framing-vulnerabilities-peru/tree/main/literature-review.
 
 
@@ -52,5 +52,5 @@ Figure 1. Vulnerability factors identified for dengue-related disease through th
 23. Cromwell EA, Stoddard ST, Barker CM, Van Rie A, Messer WB, Meshnick SR, et al. The relationship between entomological indicators of Aedes aegypti abundance and dengue virus infection. PLoS Negl Trop Dis. 2017 Mar 23;11(3)\:e0005429. doi:10.1371/journal.pntd.0005429.
 
 ## Diarrhea Literature Review 
-![Peru Vulnerabilities Diarrhea Framework](https://github.com/sciruiz/framing-vulnerabilities-peru/blob/main/literature-review/Peru%20Diarrhea%20Framework.png)
+![Peru Vulnerabilities Diarrhea Framework](https://github.com/sciruiz/framing-vulnerabilities-peru/blob/main/literature-review/references/Peru%20Diarrhea%20Framework.png)
 Figure 2. Vulnerability factors identified for diarrhea-related disease through the non-systematic literature review. Italicized indicators do not have supporting Peru-specific literature. (*) References have pathogen specific relationships with indicators. 

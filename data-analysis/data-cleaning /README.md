@@ -33,9 +33,6 @@ Limitations:
 
 #### Stunting and Wasting Children in Peru
 
-## Step 2: Further refinement of the Data
-<----------- Section for Leo ----------------->
-
 ## Citation
 
 Please cite the article as:

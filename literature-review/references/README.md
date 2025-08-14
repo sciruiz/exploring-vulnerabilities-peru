@@ -54,3 +54,12 @@ Figure 1. Vulnerability factors identified for dengue-related disease through th
 ## Diarrhea Literature Review 
 ![Peru Vulnerabilities Diarrhea Framework](https://github.com/sciruiz/framing-vulnerabilities-peru/blob/main/literature-review/references/Peru%20Diarrhea%20Framework.png)
 Figure 2. Vulnerability factors identified for diarrhea-related disease through the non-systematic literature review. Italicized indicators do not have supporting Peru-specific literature. (*) References have pathogen specific relationships with indicators. 
+
+**References**
+
+
+
+## Citation
+
+Please cite the article as:
+> Mezza et al. (On Revision). *Framing Vulnerabilities: A Transdisciplinary Study of Dengue and Diarrhea in Peru’s Borderlands*. _The Journal of Climate Change and Health_.

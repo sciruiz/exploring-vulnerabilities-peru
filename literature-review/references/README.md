@@ -57,9 +57,33 @@ Figure 2. Vulnerability factors identified for diarrhea-related disease through 
 
 **References**
 
-
+​1. Emont JP, Ko AI, Homasi-Paelate A, Ituaso-Conway N, Nilles EJ. Epidemiological Investigation of a Diarrhea Outbreak in the South Pacific Island Nation of Tuvalu During a Severe La Niña–Associated Drought Emergency in 2011. The American journal of tropical medicine and hygiene 2017 Jan 1;96(3):576–582.
+​2. Levy K, Woster AP, Goldstein RS, Carlton EJ. Untangling the Impacts of Climate Change on Waterborne Diseases: a Systematic Review of Relationships between Diarrheal Diseases and Temperature, Rainfall, Flooding, and Drought. Environmental Science & Technology 2016 May 17;50(10):4905–4922.
+​3. Claudine U, Kim JY, Kim E, Yong T. Association between Sociodemographic Factors and Diarrhea in Children Under 5 Years in Rwanda. Korean journal of parasitology 2021 Feb 1;59(1):61–65.
+​4. Carlton EJ, Eisenberg JNS, Goldstick J, Cevallos W, Trostle J, Levy K. Heavy Rainfall Events and Diarrhea Incidence: The Role of Social and Environmental Factors. American Journal of Epidemiology 2014 Feb 1;179(3):344–352.
+​5. Delahoy MJ, Cárcamo C, Huerta A, Lavado W, Escajadillo Y, Ordoñez L, et al. Meteorological factors and childhood diarrhea in Peru, 2005–2015: a time series analysis of historic associations, with implications for climate change. Environmental health 2021 Feb 26;20(1):22–10.
+​6. Rosinger AY. Household water insecurity after a historic flood: Diarrhea and dehydration in the Bolivian Amazon. Social science & medicine (1982) 2018 Jan;197:192–202.
+​7. Hashizume M, Wagatsuma Y, Faruque ASG, Sack DA, Hayashi T, Hunter PR, et al. Factors determining vulnerability to diarrhoea during and after severe floods in Bangladesh. Journal of Water and Health 2008 Sep;6(3):323–332.
+​8. Eisenberg JNS, Cevallos W, Ponce K, Levy K, Bates SJ, Scott JC, et al. Environmental change and infectious disease: How new roads affect the transmission of diarrheal pathogens in rural Ecuador. Proceedings of the National Academy of Sciences 2006 Dec 19;103(51):19460–19465.
+​9. Singh RB, Hales S, de Wet N, Raj R, Hearnden M, Weinstein P. The influence of climate variation and change on diarrheal disease in the Pacific Islands. Environmental Health Perspectives 2001 Feb 1;109(2):155–159.
+​10. Alexander KA, Heaney AK, Shaman J. Hydrometeorology and flood pulse dynamics drive diarrheal disease outbreaks and increase vulnerability to climate change in surface-water-dependent populations: A retrospective analysis. PLOS Medicine 2018 Nov 8;15(11):e1.
+​11. Colston J, Paredes Olortegui M, Zaitchik B, Peñataro Yori P, Kang G, Ahmed T, et al. Pathogen-Specific Impacts of the 2011–2012 La Niña-Associated Floods on Enteric Infections in the MAL-ED Peru Cohort: A Comparative Interrupted Time Series Analysis. International journal of environmental research and public health 2020 Jan 12;17(2):487.
+​12. Zelner JL, Trostle J, Goldstick JE, Cevallos W, House JS, Eisenberg JN . Social Connectedness and Disease Transmission: Social Organization, Cohesion, Village Context, and Infection Risk in Rural Ecuador. American journal of public health (1971) 2012 Dec;102(12):2233–2239.
+​13. Alexander K, Carzolio M, Goodin D, Vance E. Climate Change is Likely to Worsen the Public Health Threat of Diarrheal Disease in Botswana. International journal of environmental research and public health 2013 Mar 26;10(4):1202–1230.
+​14. McIver LJ, Imai C, Buettner PG, Gager P, Chan VS, Hashizume M, et al. Diarrheal Diseases and Climate Change in Cambodia. Asia-Pacific journal of public health 2016 Oct 1;28(7):576–585.
+​15. Falkenberg T, Saxena D. Impact of wastewater-irrigated urban agriculture on diarrhea incidence in Ahmedabad, India. Indian journal of community medicine 2018 Apr 1;43(2):102–106.
+​16. Seidu R, Stenström TA, Löfman O. A comparative cohort study of the effect of rainfall and temperature on diarrhoeal disease in faecal sludge and non-faecal sludge applying communities, Northern Ghana. Journal of water and climate change 2013 Jun 1;4(2):90–102.
+​17. Jofre J, Blanch AR, Lucena F. Water-Borne Infectious Disease Outbreaks Associated with Water Scarcity and Rainfall Events. Water Scarcity in the Mediterranean Berlin, Heidelberg: Springer Berlin Heidelberg; 2010. p. 147–159.
+​18. Chao DL, Roose A, Roh M, Kotloff KL, Proctor JL. The seasonality of diarrheal pathogens: A retrospective study of seven sites over three years. PLoS neglected tropical diseases 2019 Aug 1;13(8):e0007211.
+​19. Watkins RR. Gastrointestinal Infections in the Setting of Natural Disasters. Curr Infect Dis Rep 2012 Feb 1;14(1):47–52.
+​20. Fewtrell L, Kaufmann RB, Kay D, Enanoria W, Haller L, Colford JM. Water, sanitation, and hygiene interventions to reduce diarrhoea in less developed countries: a systematic review and meta-analysis. The Lancet infectious diseases 2005 Jan;5(1):42–52.
+​21. Fox JT, Alexander KA. Spatiotemporal Variation and the Role of Wildlife in Seasonal Water Quality Declines in the Chobe River, Botswana. PloS one 2015 Oct 13;10(10):e0139936.
+​22. Troeger C, Blacker B, Rao PC, Cao J, Zimsen SRM, Albertson SB, et al. Estimates of the global, regional, and national morbidity, mortality, and aetiologies of diarrhoea in 195 countries: a systematic analysis for the Global Burden of Disease Study 2015. The Lancet Infectious Diseases 2018 Nov;18(11):1191–1210.
+​23. Wright J, Gundry S, Conroy R. Household drinking water in developing countries: a systematic review of microbiological contamination between source and point‐of‐use. Tropical Medicine & International Health 2004 Jan;9(1):106–117.
+​24. Levy K, Hubbard AE, Nelson KL, Eisenberg JNS. Drivers of Water Quality Variability in Northern Coastal Ecuador. Environmental Science & Technology 2009 Mar 15;43(6):1788–1797.
+​25. Shehane SD, Harwood VJ, Whitlock JE, Rose JB. influence of rainfall on the incidence of microbial faecal indicators and the dominant sources of faecal pollution in a Florida river. Journal of applied microbiology 2005 Jan 1;98(5):1127–1136.
 
 ## Citation
 
-Please cite the article as:
+Please cite reference this information by citing the article as:
 > Mezza et al. (On Revision). *Framing Vulnerabilities: A Transdisciplinary Study of Dengue and Diarrhea in Peru’s Borderlands*. _The Journal of Climate Change and Health_.

@@ -2,7 +2,7 @@
 
 This repository supports the study "Framing Vulnerabilities: A Transdisciplinary Study of Dengue and Diarrhea in Peru’s Borderlands" (Mezza et. al., submitted to _The Journal of Climate Change and Health_). The research examines how climate variability, socio-environmental factors, and health outcomes intersect in the Peruvian Amazon’s border regions, with a focus on Caballococha—an area identified as critically affected by local health authorities.
 
-Our approach integrates quantitative and qualitative analyses within a transdisciplinary framework, combining climate and epidemiological data with on-the-ground perspectives from community stakeholders. The repository provides all materials necessary for transparency and reproducibility, including a literature review with quality-scoring rubrics, complete data analysis workflows, and scripts for replicating results. This work aims to inform climate–health adaptation strategies in vulnerable borderland settings.
+Our approach integrates quantitative and qualitative analyses within a transdisciplinary framework, combining climate and epidemiological data with on-the-ground perspectives from community stakeholders. The repository provides all materials necessary for transparency and reproducibility, including a literature review with quality-scoring rubrics, complete data analysis workflows, and scripts programmed during the study.
 
 ## Repository Contents
 

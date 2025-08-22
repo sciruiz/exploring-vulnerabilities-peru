@@ -21,7 +21,6 @@ In this section, we provide an overview of the literature review conducted on th
 This literature review compiles and analyses diverse scientific efforts that aim to model or assess **vulnerability to dengue** through socio-environmental, epidemiological, and structural indicators. You will find:
 
 - A variety of **methodologies** used to quantify or model dengue vulnerability, including both **statistical and expert-based approaches**.
-- A consistent focus on **susceptibility, coping capacity, and adaptive capacity**, as core dimensions of vulnerability.
 - A detailed breakdown of **indicators most frequently used** across studies: climatic (e.g., temperature, rainfall), demographic (e.g., population density, age structure), and socioeconomic (e.g., education, healthcare access).
 - Insight into how these indicators are operationalized into indices or models, many influenced by **WADI (World Risk Index)** frameworks.
 

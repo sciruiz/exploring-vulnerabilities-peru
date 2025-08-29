@@ -1,4 +1,4 @@
-# Framing Vulnerabilities: Dengue and Diarrhea in Peru’s Borderlands
+# A Non-Systematic Review
 
 In this section, we provide an overview of the literature review conducted on the sociodemographic and environmental determinants of diarrheal and dengue diseases, using as guide the Sustainble Livelihood Framework. The complete literature review can be found in [`Diarrhea Review.xlsx`](https://github.com/sciruiz/framing-vulnerabilities-peru/blob/main/literature-review/Diarrhea%20Review.xlsx) and [`Dengue Review.xlsx`](https://github.com/sciruiz/framing-vulnerabilities-peru/blob/main/literature-review/Dengue%20Review.xlsx).
 
@@ -104,4 +104,4 @@ This review underscores the urgent need for climate-resilient public health syst
 ## Citation
 
 Please cite the article as:
-> Mezza et al. (On Revision). *Framing Vulnerabilities: A Transdisciplinary Study of Dengue and Diarrhea in Peru’s Borderlands*. _The Journal of Climate Change and Health_.
+> Mezza et al. (On Revision). *Exploring Vulnerabilities: A mixed-method Transdisciplinary Study of Dengue and Diarrhea in Peru*. _The Journal of Climate Change and Health_.

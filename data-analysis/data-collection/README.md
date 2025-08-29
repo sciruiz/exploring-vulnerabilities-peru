@@ -22,6 +22,8 @@ Provinces are further subdivided into districts (distritos), which form the most
 ## Data Collection
 All datasets used in this study were accessed in 2021 from open-access repositories, unless otherwise specified. Sociodemographic data were obtained from the [INEI MicroDatos Repository](https://proyectos.inei.gob.pe/microdatos) via a custom Google Colab Notebook developed for this study, available [here](https://colab.research.google.com/drive/1X1AGu06S61092Y90uFJC4ArW3Mvn071i?usp=sharing). Climate data from the **PISCO** (*Peruvian Interpolation of the SENAMHI’s Climatological Observations*) dataset were retrieved from the SENAMHI open-data portal, which provides gridded temperature and precipitation records at daily and monthly resolutions, and accessed using institutional API endpoints and bulk download tools. Information on stunting and wasting in children under five years old was obtained from the Ministry of Health (**MINSA**) database, following a formal data request to the institution. 
 
+The identified variables and proxies considered for this study can be viewed through this [link](https://docs.google.com/spreadsheets/d/1h9EnR72b8I48pa2mhEX5wDcjHpuqQQxWQFFmL2wT_J0/edit?usp=sharing). The variables description and categories can be accesed from here for [ENDES](https://docs.google.com/document/d/1MB_suXczwcUKi7hkw6l9prexk26d2bwxsQW3vDDEKeY/edit?usp=sharing) and [ENAHO](https://docs.google.com/document/d/1gsXUrWJSlVAUlbM3z08nIdO9zUIN9k-VvvCmYaBJwfw/edit?usp=sharing).
+
 ## Citation
 
 Please cite the article as:

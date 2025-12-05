@@ -1,4 +1,4 @@
-# Analysis Workflow
+# Data Analysis Workflow
 
 ## Compiling Datasources
 
@@ -6,13 +6,12 @@
 Script: `National Survey of Family Health Demographics (ENDES) variables.R`
 
 🟢 input:
-* **ENDES:** ENDES - regional level data (download from this [link]())
-* **MINSA:** MINSA (variables at a district level) (download from this [link]())
-* **Labels:** `Labels- subindicators.xlsx`
+* **ENDES:** ENDES - regional level data (download from this [link](https://drive.google.com/drive/folders/1iyG6JRFPTgtwadds2-opJCipSYiaJMru?usp=sharing))
+* **Labels:** `Labels- subindicators.xlsx`(download from this [link](https://docs.google.com/spreadsheets/d/1ssGscYMo6_0uPWvjKSqNOw5cUNKypsAf/edit?usp=drive_link&ouid=104420450089934000441&rtpof=true&sd=true))
 
 Other Datasets
-* `Standardized wasting and stunting 2012-2016.RDS`
-* `Standardized adolescent mothers from 2012-2016.RDS`
+* `Standardized wasting and stunting 2012-2016.RDS` ([link](https://drive.google.com/file/d/1XunKTKdAluS6V3QJUoNd2gsNKpMjLTWx/view?usp=sharing))
+* `Standardized adolescent mothers from 2012-2016.RDS` ([link](https://drive.google.com/file/d/1PoHaLwP-s3OVDpfwLnnwlCnONkVkkiIP/view?usp=drive_link))
   
 🔴 output: `Standardized ENDES 2012-2016.RDS`
 

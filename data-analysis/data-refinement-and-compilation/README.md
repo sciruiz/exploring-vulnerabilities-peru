@@ -86,8 +86,8 @@ Script: `database compilation.R`
 
 *Information only for Caballococha:* `07.25 - Annual values Ramon Castilla.RDS`
 
-## Calculating Final Indicators + Paper Figures and Tables
-Step 6: `Final Indicator.R`
+### Step 6: Calculating Final Indicators + Obtaining Paper Figures and Tables
+Script: `Final Indicator.R`
 
 🟢 input:
 

@@ -95,3 +95,7 @@ Script: `Final Indicator.R`
 * Dataset 2: `07.25 - Aggregated DB (2012-2016) without NAs.RDS`
 
 🔴 output: Tables and Plots included in the article
+
+## Citation
+>Please reference this repository by citing the article as: Mezza et. al. (On Revision) "Exploring Vulnerabilities: A mixed-method Transdisciplinary Study of Dengue and Diarrhea in Peru". _The Journal of Climate Change and Health_.
+

@@ -77,10 +77,10 @@ Script: `database compilation.R`
 
 🟢 input:
 
-* PISCO: `PISCO variables district level.RDS`
-* ENAHO: `standardized ENAHO 2012-2016.RDS`
-* ENDES: `Standardized ENDES 2012-2016.RDS`
-* CDC: `dengue diarrhea cases CDC-MINSA.RDS`
+* PISCO: `PISCO variables district level.RDS` (a reference is available at this [link](https://drive.google.com/file/d/1q_tkBi0i6J1XN8OH16POzjS5yXOyjZ4I/view?usp=drive_link)]
+* ENAHO: `standardized ENAHO 2012-2016.RDS` (a reference is available at this [link](https://drive.google.com/file/d/10cnKgPAKjVUBd3-mXvHoJlp0u1W8kLCK/view?usp=drive_link)]
+* ENDES: `Standardized ENDES 2012-2016.RDS` (a reference is available at this [link](https://drive.google.com/file/d/1bLVAnC3PRE6qz1jT7VCPwLqsqEvt-oH8/view?usp=drive_link)]
+* CDC: `dengue diarrhea cases CDC-MINSA.RDS` (a reference is available at this [link](https://drive.google.com/file/d/19rXf9RbhmdL1UQANM2uqvbYj-iT8Y1cy/view?usp=drive_link)]
 
 🔴 output:
 

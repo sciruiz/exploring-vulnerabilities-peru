@@ -9,7 +9,7 @@ This section outlines the source, processing steps, and scripts utilized for thi
 | Demographic and Family Health Survey (**ENDES**)          | Sociodemographic data | Regional    | Annual   | National Institute of Statistics and Informatics (**INEI**)           |
 | National Household Survey (**ENAHO**)                     | Sociodemographic data | District    | Annual   | National Institute of Statistics and Informatics (**INEI**)           |
 | Dengue and Diarrhea Prevalence                            | Epidemiological data  | District    | Weekly   | CDC Peru (*Centro Nacional de Epidemiología, Prevención y Control de Enfermedades*) |
-| **PISCO** (Peruvian Interpolation of SENAMHI Climatological Observations) | Climate data         | District    | Annual   | SENAMHI (*Servicio Nacional de Meteorología e Hidrología del Perú*)   |
+| Peruvian Interpolation of SENAMHI Climatological Observations(**PISCO**) | Climate data         | District    | Annual   | SENAMHI (*Servicio Nacional de Meteorología e Hidrología del Perú*)   |
 
 Note:
 **Political and administrative organization of Peru**

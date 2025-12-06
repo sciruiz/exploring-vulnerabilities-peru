@@ -63,7 +63,7 @@ Script: `dengue and diarrhea cases (CDC).R`
 
 * Dengue: `dengue CDC-MINSA.xlsx` (download the file from this [link](https://docs.google.com/spreadsheets/d/1i34R6TeoWEd4hXz_VDtlYWjFdUKacb5z/edit?usp=drive_link&ouid=104420450089934000441&rtpof=true&sd=true))
 * Diarrhea: `diarrhea CDC-MINSA.xlsx` (download the file from this [link](https://docs.google.com/spreadsheets/d/1TKUjZND7IJkYYhtkIEgceV-hneYEvu7g/edit?usp=drive_link&ouid=104420450089934000441&rtpof=true&sd=true))
-* Distrcts and ubigeos: `inei_all.csv` (download the file from this [link]([https://drive.google.com/file/d/1gnV94xaFPkKNM5ZSnGPp9UYYb2HmXFX0/view?usp=drive_link](https://drive.google.com/file/d/1AE_uxRlj7GZuHQveFcVmCGtDmV8Ac81T/view?usp=drive_link)))
+* Distrcts and ubigeos: `inei_all.csv` (download the file from this [link](https://drive.google.com/file/d/1AE_uxRlj7GZuHQveFcVmCGtDmV8Ac81T/view?usp=drive_link))
 * Population data for standardisation: `est. population 2012-2016 (district).RDS` (download the file from this [link](https://drive.google.com/file/d/14ri8uVmLikNrA-9Oly3-DE_heP460FfC/view?usp=drive_link))
 
 🔴 output:
